@@ -1,0 +1,78 @@
+24.05.2018 18:09:49 Initializing PLC... 
+24.05.2018 18:09:49 UI initialized 
+24.05.2018 18:09:49 Model initilalized 
+24.05.2018 18:09:49 DAQ module initialized 
+24.05.2018 18:09:49 LOG module initialized 
+24.05.2018 18:09:49 TCP module initialized 
+24.05.2018 18:09:49 PLC initialization successful! 
+24.05.2018 18:11:17 Server mode. Listening... 
+24.05.2018 18:11:32 Connected with client 
+24.05.2018 18:11:32 Message received from client 
+24.05.2018 18:11:38 Message received from client 
+24.05.2018 18:11:58 Message received from client 
+24.05.2018 18:12:11 Message received from client 
+24.05.2018 18:12:17 Message received from client 
+24.05.2018 18:12:20 Message received from client 
+24.05.2018 18:12:26 Message received from client 
+24.05.2018 18:12:44 Message received from client 
+24.05.2018 18:12:50 Message received from client 
+24.05.2018 18:12:58 Message received from client 
+24.05.2018 18:13:19 Message received from client 
+24.05.2018 18:13:40 Message received from client 
+24.05.2018 18:13:47 Message received from client 
+24.05.2018 18:14:20 UI initialized 
+24.05.2018 18:14:20 Initializing PLC... 
+24.05.2018 18:14:20 Model initilalized 
+24.05.2018 18:14:20 DAQ module initialized 
+24.05.2018 18:14:20 LOG module initialized 
+24.05.2018 18:14:20 TCP module initialized 
+24.05.2018 18:14:20 PLC initialization successful! 
+24.05.2018 18:14:32 Closing PLC... 
+24.05.2018 18:14:32 Model closed 
+24.05.2018 18:14:32 DAQ module closed 
+24.05.2018 18:14:32 LOG module closed 
+24.05.2018 18:14:32 TCP module closed 
+24.05.2018 18:14:32 PLC shutdown successful! 
+24.05.2018 18:14:32 Application quits 
+24.05.2018 18:14:44 UI initialized 
+24.05.2018 18:14:44 Initializing PLC... 
+24.05.2018 18:14:44 Model initilalized 
+24.05.2018 18:14:44 DAQ module initialized 
+24.05.2018 18:14:44 LOG module initialized 
+24.05.2018 18:14:44 TCP module initialized 
+24.05.2018 18:14:44 PLC initialization successful! 
+24.05.2018 18:14:55 Server mode. Listening... 
+24.05.2018 18:18:51 Connected with client 
+24.05.2018 18:19:16 Message received from client 
+24.05.2018 18:20:00 Message received from client 
+24.05.2018 18:20:57 Closing PLC... 
+24.05.2018 18:20:57 Model closed 
+24.05.2018 18:20:57 DAQ module closed 
+24.05.2018 18:20:57 LOG module closed 
+24.05.2018 18:20:57 TCP module closed 
+24.05.2018 18:20:57 PLC shutdown successful! 
+24.05.2018 18:20:57 Application quits 
+24.05.2018 18:22:13 UI initialized 
+24.05.2018 18:22:13 Initializing PLC... 
+24.05.2018 18:22:13 Model initilalized 
+24.05.2018 18:22:13 DAQ module initialized 
+24.05.2018 18:22:13 LOG module initialized 
+24.05.2018 18:22:13 TCP module initialized 
+24.05.2018 18:22:13 PLC initialization successful! 
+24.05.2018 18:22:15 Server mode. Listening... 
+24.05.2018 18:22:19 Connected with client 
+24.05.2018 18:22:44 Message received from client 
+24.05.2018 18:22:44 Process has started 
+24.05.2018 18:23:08 Message received from client 
+24.05.2018 18:23:08 Process has started 
+24.05.2018 18:24:01 Message received from client 
+24.05.2018 18:25:16 Message received from client 
+24.05.2018 18:25:33 Message received from client 
+24.05.2018 18:26:03 Message received from client 
+24.05.2018 18:26:38 Message received from client 
+24.05.2018 18:27:13 Message received from client 
+24.05.2018 18:27:13 Process has started 
+24.05.2018 18:27:25 Message received from client 
+24.05.2018 18:27:45 Message received from client 
+24.05.2018 18:27:53 Message received from client 
+24.05.2018 18:29:02 Message received from client 
